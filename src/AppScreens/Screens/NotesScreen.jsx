@@ -242,7 +242,7 @@ const NoteScreen = () => {
                 }}>Notes App</Text>
             </View>
 
-            {/* Modal View */}
+            {/* Modal Dialog View */}
             <Modal transparent={true}
                 visible={showModal}
                 animationType="fade"
